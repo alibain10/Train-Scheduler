@@ -1,0 +1,15 @@
+#train-image {
+    /* Box-model */
+    width: 100%;
+    height: 200px;
+    
+}
+
+#header{
+    background-image: url("../images/train-1807911_1920.jpg");
+    
+    height: 285px;
+    color: #ffffff; 
+    text-shadow: 2px 2px 4px #000000;
+
+}
